@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.git",
+    "\\venv",
+    "\\venv\\Include",
+    "\\venv\\Lib",
+    "\\venv\\Lib\\site-packages",
+    "\\venv\\Lib\\site-packages\\_pytest",
+    "\\venv\\Lib\\site-packages\\_pytest\\__pycache__",
+    "\\venv\\Lib\\site-packages\\__pycache__",
+    "\\Локальные параметры (.vs)"
   ],
-  "SelectedNode": "\\program.py",
+  "SelectedNode": "\\venv\\Lib\\site-packages\\_pytest\\__pycache__\\_argcomplete.cpython-37.pyc",
   "PreviewInSolutionExplorer": false
 }
